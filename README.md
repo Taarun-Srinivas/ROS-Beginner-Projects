@@ -1,4 +1,4 @@
-# ROS-Beginner-Projects
+# ROS-Simple-Publisher-Subscriber
 This repository contains basic publish subscribe programs handling different datatypes. 
 
 in this repository, there are four talker listener packages
